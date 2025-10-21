@@ -1,4 +1,4 @@
-# Resume Builder - What I Built and Why
+# Resume Builder Trial Task (Zidio Development) - What I Built and Why
 
 **Yashica Nagal**
 
@@ -219,4 +219,4 @@ Next project: Already thinking about what to build next...
 **Yashica Nagal**  
 October 2025
 
-*First full-stack project. Many lessons learned. Ready for the next one.*
+*Full-stack MERN project. Many lessons learned. Ready for the next one.*
